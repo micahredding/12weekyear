@@ -1,0 +1,7 @@
+production:
+  domain:
+    name: "bricksco@bricksites.com"
+    ssh_options: "-p 2222"
+  deploy_to: "~/public_html/micahredding/12weekyear"
+  repository: "git@github.com:micahredding/12weekyear.git"
+  branch: "master"
