@@ -62,14 +62,15 @@ textarea {
    ========================================================================== */
 
 body {
+		font-size: 2em;
     max-width: 600px;
     text-align: center;
 }
 h1 {
-    margin-top:5em;
+    margin-top:2em;
 }
 #date {
-    margin-bottom: 5em;
+    margin-bottom: 3em;
 }
 
 
